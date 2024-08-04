@@ -1,0 +1,20 @@
+
+#threads{
+	text-align: center;
+	margin: 0 auto;
+	max-width: 400px;
+	padding: 1%;
+	border: 1px solid #000000;
+  border-radius: 5px;
+	background-color: #d0d0d0;
+}
+.thread{
+	
+	border: 1px solid #000000;
+
+	background-color: #e0e0e0;
+}
+.thread:hover{
+	background-color: #f0f0f0;
+}
+
