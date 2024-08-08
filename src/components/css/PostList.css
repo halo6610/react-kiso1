@@ -1,0 +1,19 @@
+
+.posts{
+	overflow: hidden;
+	margin: 0 auto;
+	max-width: 400px;
+	padding: 1%;
+	border: 1px solid #000000;
+  border-radius: 5px;
+	background-color: #d0d0d0;
+}
+.post{
+	min-height:50px;
+	border: 1px solid #000000;
+	word-wrap: normal;
+	background-color: #e0e0e0;
+}
+.post:hover{
+	background-color: #f0f0f0;
+}

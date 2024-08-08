@@ -1,5 +1,5 @@
 import {Link} from "react-router-dom";
-import './css/NewThread.css'
+import '../css/NewThread.css'
 import { useState } from 'react'
 const NewThread = () => {
 	const [text,setText]=useState('')
