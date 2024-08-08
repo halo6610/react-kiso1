@@ -55,7 +55,7 @@ export const GetPostList = (props: { threadId: any; }) => {
 			})
 			if(result!==null) return result
 		}
-		return 'このログは倉庫にあります'
+		return 'タイトルを読み込めませんでした'
 	}
 
 	function post(){ //投稿する

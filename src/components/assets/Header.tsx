@@ -5,7 +5,7 @@ export const Header=()=>{
 		<div>
 			<div id="title">掲示板アプリ</div>
 			<div id="makeThread">
-				<Link to="/thread">スレ立て</Link>
+				<Link to="/thread">新規スレッド</Link>
 			</div>
 		</div>
 	</header>

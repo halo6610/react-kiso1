@@ -1,3 +1,4 @@
+/*
 export const getName=async(threadId)=>{
 	for (let i = 0; i < 2; i++) {
 
@@ -27,3 +28,4 @@ export const getName=async(threadId)=>{
 }
 
 export default getName
+*/
